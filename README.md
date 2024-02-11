@@ -8,6 +8,6 @@ The design is super simple using just one trick. Choose a moon surface, here I u
 
 To make the effect super-realistic I added realistic lighting on the mountains and the tree.
 
-For Assets Visit: https://www.behance.net/muhammadali850
+For Assets Visit: https://www.behance.net/gallery/191145095/Sci-Fi-Sky-Design-in-Adobe-Photoshop
 
 Editing Credits: Muhammad Ali
